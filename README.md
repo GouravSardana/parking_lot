@@ -19,6 +19,11 @@
 ```
 $ git clone https://github.com/GouravSardana/parking_lot.git
 ```
+
+```
+$ cd parking_lot
+```
+
 ```
 $ python3 src/main.py -f src/inputs/input1.txt
 ```
