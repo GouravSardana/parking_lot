@@ -17,7 +17,7 @@
 ## Running the project
 
 ```
-$ git clone 
+$ git clone https://github.com/GouravSardana/parking_lot.git
 ```
 ```
 $ python3 src/main.py -f src/inputs/input1.txt
