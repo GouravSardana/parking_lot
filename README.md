@@ -1,4 +1,4 @@
-# SquadStack Parking Lot Problem
+# Parking Lot Problem
 # Getting Started
 
 
